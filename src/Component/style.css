@@ -1,0 +1,26 @@
+.box{
+ margin-top: 50px;
+}
+.box1{
+    height: 70px;
+    width:250px;
+    border: 2px solid black;
+    margin-left: 40%;
+    margin-top: 50px;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 800;
+}
+.box2{
+    height: 200px;
+    width:300px;
+    border: 2px solid black;
+    margin-left: 40%;
+    margin-top: 50px;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 800;
+}
+
